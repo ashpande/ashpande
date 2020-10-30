@@ -9,4 +9,4 @@ I'm Ashutosh, a final year CSE undergrad from DSCE, Bangalore. I work on Compile
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashupdsce/) , [Email](ashutoshpandey123456@gmail.com)
 - ⚡ Fun fact: I spent two whole years working in a team that builds drones. Its where my interest in electronics stems from.
 
-               ![Visitor Count](https://profile-counter.glitch.me/AshutoshPandey123456/count.svg)
+               ![Visitor Count](https://profile-counter.glitch.me/{https://github.com/AshutoshPandey123456}/count.svg)
