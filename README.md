@@ -10,7 +10,7 @@ I'm Ashutosh, a final year CSE undergrad from DSCE, Bangalore. I work on Compile
 
 - 🤔 Next Hackathon: [Devfolio InOut 7.0](https://www.hackinout.co/).
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashupdsce/) , [Email](ashutoshpandey123456@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashupdsce/) , [Email](mailto:ashutoshpandey123456@gmail.com).
 
 - ⚡ Fun fact: I spent two whole years working in a team that builds drones. Its where my interest in electronics stems from.
 
