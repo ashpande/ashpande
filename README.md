@@ -4,14 +4,14 @@ I'm Ashutosh, a final year CSE undergrad from DSCE, Bangalore. I work on Compile
 
 - 🔭 Interests: Compilers, Internet of Things, Embedded Systems, Programming Language Design, Machine Learning.
 
-- 🌱 Languages/Tools: GNU GCC, Clang/LLVM , C/C++, Python, Bash, Make/CMake, Java, markdown, LaTeX, InDesign, Arduino, Raspberry Pi, BeagleBone Black, Portenta H7,STM32
+- 🌱 Languages/Tools: GNU GCC, Clang/LLVM , C/C++, Python, Bash, Make/CMake, Java, markdown, LaTeX, InDesign, Arduino, Raspberry Pi, BeagleBone Black, Portenta H7, STM32.
 
-- 👯 I blog about science and technology: [Sapience](https://sapience2017.wordpress.com/) and Electronics: [Element14 blog](https://www.element14.com/community/people/ashutosh_pandey)
+- 👯 I blog about science and technology: [Sapience](https://sapience2017.wordpress.com/) and Electronics: [Element14 blog](https://www.element14.com/community/people/ashutosh_pandey).
 
-- 🤔 Next Hackathon: [Devfolio InOut 7.0](https://www.hackinout.co/)
+- 🤔 Next Hackathon: [Devfolio InOut 7.0](https://www.hackinout.co/).
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashupdsce/) , [Email](ashutoshpandey123456@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashupdsce/) , [Email](ashutoshpandey123456@gmail.com).
 
 - ⚡ Fun fact: I spent two whole years working in a team that builds drones. Its where my interest in electronics stems from.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPandey123456)](https://github.com/AshutoshPandey123456/AshutoshPandey123456)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPandey123456)](https://github.com/AshutoshPandey123456/AshutoshPandey123456)
