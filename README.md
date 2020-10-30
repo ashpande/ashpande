@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AshutoshPandey123456/AshutoshPandey123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Ashutosh, a final year CSE undergrad from DSCE, Bangalore. I work on Compilers and IoT. I've done Google Summer of Code with ![Arduino](https://github.com/AshutoshPandey123456/micropy-convert) . I'm currently a mentee at ELISA (Enabling Linux In Safety Applications) under the Linux CommunityBridge programme.
 
 - 🔭 Interests: Compilers, Internet of Things, Embedded Systems, Programming Language Design, Machine Learning.
