@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Ashutosh, a final year CSE undergrad from DSCE, Bangalore. I work on Compilers and IoT. I've done Google Summer of Code with [Arduino](https://summerofcode.withgoogle.com/archive/2020/projects/6579687536459776/). I'm currently a mentee at [ELISA](https://people.communitybridge.org/project/33e091d5-a371-487a-8b7a-930287bbb130) (Enabling Linux In Safety Applications) under the Linux CommunityBridge programme.
+I'm Ashutosh, a Compiler Engineer at AMD India. I work on Compilers and IoT. I've done Google Summer of Code with [Arduino](https://summerofcode.withgoogle.com/archive/2020/projects/6579687536459776/). I'm also a former Linux Foundation mentee with [ELISA](https://mentorship.lfx.linuxfoundation.org/mentee/5f570491-9268-4250-a64d-9b5d386444e2). I currently volunteer for the Free Software Foundation in my free time.
 
 - 🔭 **Interests:** Compilers, Internet of Things, Embedded Systems, Programming Language Design, Machine Learning.
 
