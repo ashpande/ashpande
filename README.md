@@ -8,10 +8,10 @@ I'm Ashutosh, a Compiler Engineer at AMD India. I work on Compilers and IoT. I'v
 
 - 👯 **Blog:** [Sapience- Science and Tech](https://sapience2017.wordpress.com/) and [Element14 blog- Electronics](https://www.element14.com/community/people/ashutosh_pandey).
 
-- 🤔 **Next Hackathon:** [Devfolio InOut 7.0](https://www.hackinout.co/).
+- 🤔 **Next Hackathon:** [Devfolio Aventus](https://aventus.devfolio.co/).
 
 - 📫 **How to reach me:** [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ashupdsce/) [<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ashutoshpandey12/) [ashutoshpandey123456@gmail.com](mailto:ashutoshpandey123456@gmail.com).
 
 - ⚡ **Fun fact:** I spent two whole years working in a team that builds drones. Its where my interest in electronics stems from.
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPandey123456)](https://github.com/AshutoshPandey123456/AshutoshPandey123456)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashpande)](https://github.com/ashpande/AshutoshPandey123456)
